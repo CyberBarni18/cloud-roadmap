@@ -1,48 +1,71 @@
 # Cloud Roadmap
 
-## 🎯 Goal
+A hands-on learning roadmap for becoming a Junior Cloud / Platform Engineer.
 
-This repository documents my journey to become an AI Platform Engineer.
+## Goals
 
-## Long-term Career Goal
+- Learn Linux fundamentals
+- Master Git and GitHub
+- Improve Python for automation
+- Learn Docker and Kubernetes
+- Work with Microsoft Azure
+- Build Infrastructure as Code using Terraform
+- Create CI/CD pipelines with GitHub Actions
 
-Build a strong foundation in:
+---
 
-- Linux
-- Python
+## Tech Stack
+
+- Linux (Ubuntu / WSL)
 - Git & GitHub
+- Python
 - Docker
 - Kubernetes
 - Azure
 - Terraform
-- CI/CD
-- Cloud Infrastructure
-- Platform Engineering
+- GitHub Actions
 
-and later specialize in:
+---
 
-- AI Platform Engineering
-- MLOps
-- LLM Infrastructure
-- AI Automation
+## Learning Progress
 
-## Education
+| Day | Topic | Status |
+|------|-------|--------|
+| Day 1 | Git & GitHub Setup | ✅ |
+| Day 2 | Linux File System & Terminal Basics | ✅ |
+| Day 3 | Working with Files in Linux | ⏳ |
+| Day 4 | Linux Permissions | ⏳ |
+| Day 5 | Processes & System Monitoring | ⏳ |
+| Day 6 | Shell & Environment | ⏳ |
+| Day 7 | Linux Mini Project | ⏳ |
 
-- BSc in Computer Engineering (planned)
-- Cybersecurity specialization (planned)
+---
 
-## Learning Journal
+## Repository Structure
 
-### ✅ Day 1
+```text
+cloud-roadmap/
+├── README.md
+├── linux-cheatsheet.md
+├── day01/
+├── day02/
+├── day03/
+├── python/
+├── docker/
+├── kubernetes/
+├── terraform/
+├── github-actions/
+└── notes/
+```
 
-- WSL Ubuntu setup
-- VS Code + WSL
-- Python virtual environment (.venv)
-- Git fundamentals
-- GitHub SSH authentication
-- First Python application
-- First Git commit and push
+---
 
-## Next Step
+## Current Focus
 
-➡️ Day 2 – Server Inventory Manager
+Currently learning Linux fundamentals as the foundation for Cloud and Platform Engineering.
+
+---
+
+## Author
+
+Learning journey by Badma 🚀
