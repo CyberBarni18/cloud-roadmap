@@ -1,44 +1,48 @@
 # Cloud Roadmap
 
-## 🎯 Cél
+## 🎯 Goal
 
-Ez a repository a **Cloud / Platform Engineer** tanulási utamat dokumentálja.
+This repository documents my journey to become an AI Platform Engineer.
 
-A célom:
+## Long-term Career Goal
 
-- NJE Mérnökinformatika BSc
-- Kiberbiztonsági specializáció
+Build a strong foundation in:
+
 - Linux
 - Python
 - Git & GitHub
 - Docker
-- Azure
 - Kubernetes
+- Azure
 - Terraform
-- Platform Engineer
+- CI/CD
+- Cloud Infrastructure
+- Platform Engineering
 
----
+and later specialize in:
 
-## 📅 Tanulási napló
+- AI Platform Engineering
+- MLOps
+- LLM Infrastructure
+- AI Automation
 
-### Day 1
+## Education
 
-✅ WSL Ubuntu telepítés
+- BSc in Computer Engineering (planned)
+- Cybersecurity specialization (planned)
 
-✅ VS Code + WSL
+## Learning Journal
 
-✅ Python virtuális környezet (.venv)
+### ✅ Day 1
 
-✅ Git
+- WSL Ubuntu setup
+- VS Code + WSL
+- Python virtual environment (.venv)
+- Git fundamentals
+- GitHub SSH authentication
+- First Python application
+- First Git commit and push
 
-✅ GitHub SSH
+## Next Step
 
-✅ Első Python program
-
-✅ Első Git commit
-
----
-
-## 🚀 Következő cél
-
-Day 2 – Server Inventory Manager Pythonban
+➡️ Day 2 – Server Inventory Manager
