@@ -11,7 +11,8 @@ This repository contains my daily labs, study notes, and practical projects as I
 * Learn Linux fundamentals
 * Master Git & GitHub
 * Improve Python for automation
-* Learn Docker and Kubernetes
+* Learn Docker for containerization
+* Learn Kubernetes for orchestration
 * Work with Microsoft Azure
 * Build Infrastructure as Code using Terraform
 * Create CI/CD pipelines with GitHub Actions
@@ -62,21 +63,32 @@ cloud-roadmap/
 
 ### Folder Overview
 
-| Folder      | Description                          |
-| ----------- | ------------------------------------ |
-| `labs/`     | Daily hands-on exercises and labs    |
-| `notes/`    | Cheatsheets and study notes          |
-| `projects/` | Future cloud and automation projects |
-| `assets/`   | Images and diagrams                  |
+| Folder      | Description                                     |
+| ----------- | ----------------------------------------------- |
+| `labs/`     | Daily hands-on exercises and labs               |
+| `notes/`    | Cheatsheets and study notes                     |
+| `projects/` | Practical projects built throughout the roadmap |
+| `assets/`   | Images, screenshots, and diagrams               |
 
 ---
 
 ## 🚀 Current Focus
 
-Learning Linux fundamentals and building a strong foundation for Cloud and Platform Engineering.
+**Module:** Linux Fundamentals
+
+**Completed:**
+
+* ✅ Day 1 – Git & GitHub Setup
+* ✅ Day 2 – Linux File System & Terminal Basics
+
+**Next:**
+
+* ⏳ Day 3 – Working with Files in Linux
 
 ---
 
 ## 👨‍💻 Author
 
-Badma
+**Badma**
+
+Building practical Cloud & Platform Engineering skills through hands-on learning.
